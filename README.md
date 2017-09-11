@@ -4,7 +4,7 @@
 
 Hibernate is a high-performance Object/Relational persistence and query service. Hibernate is an ORM Framework.
 
-## Why ORM?
+## Why ORM framework?
 
 When we work with an object-oriented systems, there's a mismatch between the object model and the relational database.
 RDBMSs represent data in a tabular format whereas object-oriented languages, such as Java or C# represent it as an 
